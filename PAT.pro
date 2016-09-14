@@ -10,4 +10,4 @@ CONFIG -= app_bundle
 TEMPLATE = app
 
 SOURCES += \
-    1005.cpp
+    1004.cpp
