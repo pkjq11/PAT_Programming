@@ -1,6 +1,0 @@
- .qmake.stash
- Makefile
- Makefile.Debug
- Makefile.Release
- PAT.pro.user
- debug/
